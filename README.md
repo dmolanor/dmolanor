@@ -1,4 +1,4 @@
-# 💫 About Me:
+# Hi there, I'm Diego:
 I'm currently working on Kuoco<br>I'm looking to collaborate on open-source projects<br>I'm currently learning ML and RL
 
 
