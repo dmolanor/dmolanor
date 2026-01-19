@@ -1,5 +1,6 @@
 # Hi there, I'm Diego:
-I'm currently working on Kuoco<br>I'm looking to collaborate on open-source projects<br>I'm currently learning ML and RL
+AI-ML Engineer / Backend Engineer
+I'm currently working on Kuoco, an AI-powered ordering assistant that automates restaurant delivery requests through chat and voice, integrating seamlessly with POS systems to maximize efficiency and capture every sale."<br>I'm looking to collaborate on open-source projects<br>I'm currently learning ML and RL
 
 
 ## 🌐 Socials:
