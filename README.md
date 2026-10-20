@@ -11,7 +11,6 @@ A senior systems engineering student and technical founder deeply focused on bui
 ## 🚀 What I'm Building Right Now
 
 *   **🥑 Kuoco (Founder):** Building and scaling an AI-powered ordering assistant that automates restaurant delivery requests through chat and voice. It integrates with POS systems to optimize order processing and capture missed revenue.
-*   **🏍️ RuedaSeguros (Co-Founder & Lead Mobile Dev):** Developing an InsureTech platform for motorcycle riders in Venezuela. I own the Flutter user-facing mobile app, which features automatic crash detection utilizing mobile device sensors.
 *   **💼 Cardali CRM (AI Engineer):** Architecting an AI-native CRM and Agency Management System (AMS) tailored for an FMO in the United States.
 *   **🏆 Execute the Idea:** Engineering a robust event and delivery platform designed to scale for up to 10,000 users competing in a national college startup ecosystem in Colombia.
 
